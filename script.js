@@ -80,7 +80,7 @@ const yoKaiList = [
   { "name": "Ingenio", "img": "Ingenio.png" },
   { "name": "Alpina", "img": "Alpina.png" },
   { "name": "Nyanses II", "img": "nyanses_II.gif" },
-    { name: "Raise Girl", img: "Raise_Girl.png" },
+  { name: "Raise Girl", img: "Raise_Girl.png" },
     { name: "Nyanses II G", aliases: ["Nyanses II G", "Neko II G"], img: "Nyanses_II_G.png" },
     { name: "Rosetta Stone", aliases: ["Rosetta Stone", "Piedra Rosetta"], img: "Piedra_Rosetta.png" },
     { name: "Tanto", img: "Tanto.png" },
